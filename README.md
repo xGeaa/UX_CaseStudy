@@ -80,7 +80,7 @@ Para este apartado, estudiaremos a las dos siguientes personas:
 
 <img width="720" height="456" alt="Captura de pantalla 2026-03-04 a las 18 17 37" src="https://github.com/user-attachments/assets/13918f6e-12d1-4524-b4a7-6997d5ca0544" />
 
-Martín Martinez es un joven bombero de 23 años apasionado del deporte y de experimentar en la cocina. Sin embargo, no es muy dado a vivir ni buscar nuevas experiencias. A pesar de ello, le encanta su trabajo y disfruta ayudando a la gente durante el día.
+Martín Martinez es un joven bombero de 23 años apasionado del deporte y de experimentar en la cocina. Sin embargo, no es muy dado a vivir ni buscar nuevas experiencias. A pesar de ello, le encanta su trabajo y disfruta ayudando a la gente durante el día. Durante su tiempo libre, es un interesado en los eventos deportivos, la cultura del cine y en ir a comer a sitios que le dejen satisfecho. Podemos resaltar de él, su miedo a la desinformación de las redes, que pueden llevarle a recomendaciones muy desacertadas.
 
 >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
 
