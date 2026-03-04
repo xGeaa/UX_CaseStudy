@@ -83,7 +83,12 @@ Para este apartado, estudiaremos a las dos siguientes personas:
 
 Martín Martinez es un joven bombero de 23 años apasionado del deporte y de experimentar en la cocina. Sin embargo, no es muy dado a vivir ni buscar nuevas experiencias. A pesar de ello, le encanta su trabajo y disfruta ayudando a la gente durante el día. Durante su tiempo libre, es un interesado en los eventos deportivos, la cultura del cine y en ir a comer a sitios que le dejen satisfecho. Podemos resaltar de él, su miedo a la desinformación de las redes, que pueden llevarle a recomendaciones muy desacertadas.
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+
+<img width="1448" height="918" alt="Persona #1(1)" src="https://github.com/user-attachments/assets/81b863f1-3277-4c33-a4c8-8d7473e65bde" />
+
+Sofia Gomez es una joven diseñadora grafica que vive en la ciudad de Granada. Es una persona muy social, le gusta salir los viernes y sábados. Debido a su profesión (diseñadora), su cerebro no se apaga cuando sale del trabajo. Es extremadamente observadora y sensible a la estética. Para ella, el mundo entra por los ojos. Valora muchísimo el esfuerzo que hay detrás de las cosas bien hechas: desde la tipografía del menú hasta cómo le hablan los camareros o la limpieza de un local. No tolera la mediocridad ni el "todo vale"; si va a gastar su dinero y su tiempo libre, quiere que merezca la pena.
+
+>>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.
 
 
 ### 1.d User Journey Map
