@@ -94,6 +94,11 @@ Sofia Gomez es una joven diseñadora grafica que vive en la ciudad de Granada. E
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
+En este apartado encontramos los journey maps de las dos personas que se han estudiado:
+
+<img width="1637" height="1395" alt="JourneyMap" src="https://github.com/user-attachments/assets/f7232ebc-fc10-4b24-8790-7ef6aae1d730" />
+
+La experiencia que tiene este usuario se podria considerar ocasional ya que esta solo ocurre cuando el usuario no conoce el local. No me parece una experiencia habitual por el hecho de que las primeras fases de dicha experiencia ocurren cuando el usuario no ha estado nunca en el local que escoge. Ya las proximas veces que vaya se podra ahorrar las dos primeras fases.
 
 >>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
 
