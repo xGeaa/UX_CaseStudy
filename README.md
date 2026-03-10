@@ -96,6 +96,10 @@ Sofia Gomez es una joven diseñadora grafica que vive en la ciudad de Granada. E
 ----
 En este apartado encontramos los journey maps de las dos personas que se han estudiado:
 
+<img width="516" height="401" alt="image" src="https://github.com/user-attachments/assets/47707be0-5ec7-4c5c-8e46-68d1b14bbbf5" />
+
+En este caso, observamos una experiencia totalmente habitual en nuevos usuarios de la página y del local. Sin embargo, este mismo usuario no volverá a repetir esta experiencia en gran medida pues ya ha descubierto la página por completo, por tanto, la próxima vez irá directo hacia donde le interese como por ejemplo, la opción de reservar.
+
 <img width="1637" height="1395" alt="JourneyMap" src="https://github.com/user-attachments/assets/f7232ebc-fc10-4b24-8790-7ef6aae1d730" />
 
 La experiencia que tiene este usuario se podria considerar ocasional ya que esta solo ocurre cuando el usuario no conoce el local. No me parece una experiencia habitual por el hecho de que las primeras fases de dicha experiencia ocurren cuando el usuario no ha estado nunca en el local que escoge. Ya las proximas veces que vaya se podra ahorrar las dos primeras fases.
