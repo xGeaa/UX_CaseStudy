@@ -8,7 +8,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: .... )
 
 
 
-Actualizado: 14/01/2026
+Actualizado: 10/03/2026
 
 
 
@@ -16,12 +16,6 @@ Actualizado: 14/01/2026
 ## Paso 0 My UX-Case Study
 ![Método UX](img/caseStudy.png) 
 -----
-
->>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
-
-
->>> Hay que Publicar de forma incremental "my Case Study" en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
 
 Grupo: DIU3_AL.  Curso: 2025/26 
 
@@ -39,9 +33,7 @@ Logotipo:
 
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  Alejandro Gea Martínez          https://github.com/xGeaa
- * :bust_in_silhouette:  Alberto Romero Orantes-Zurita
-
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
+ * :bust_in_silhouette:  Alberto Romero Orantes-Zurita   https://github.com/albertozurita-code
 
 ----- 
 
