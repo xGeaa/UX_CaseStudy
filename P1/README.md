@@ -2,7 +2,7 @@
 
 
 - Desk research: Análisis Competencia 
-- Persona & User Journey Map #1: Martín Martínez
+- Persona & User Journey Map #1: [Martín Martínez](P1/Persona&UserJourneyMap1.pdf)
 - Persona & User Journey Map #2: Sofía Gómez
 - Revisión de Usabilidad: Usability Review
 
