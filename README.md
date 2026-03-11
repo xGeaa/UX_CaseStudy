@@ -66,12 +66,21 @@ En conclusión, realizaremos este análisis para consegir diseñar estratégias 
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+Es necesario hablar de la posición competitiva de la web de Goiko frente a sus rivales de referencia basándose en el análisis de experiencia de usuario y el diseño visual que muestran. Por ello, sacamos las siguientes conclusiones:
 
+Goiko se sitúa en una posición de liderazgo visual en su sector, ofreciendo una propuesta estética "bonita" y un flujo de usuario "sencillo y fluido". Destaca por tener un contraste y legibilidad "bastante buenos" y una adaptación móvil  algo eficiente. Sin embargo, presenta debilidades en la estructuración de su contenido, calificada como "demasiado jerarquizada", y un menú de navegación que resulta "demasiado impresivo" para el usuario. Además, al igual que sus competidores, carece de herramientas críticas como un buscador o ayuda contextual.En comparación con Mostaza Green, Goiko ofrece una interfaz mucho más cuidada y legible, ya que Mostaza padece de "demasiada información" y dificultades de lectura por insertar texto sobre fotos de distintos tonos.
+No obstante, Mostaza Green toma la delantera en accesibilidad directa, proporcionando accesos rápidos suficientes y visibles en la interfaz principal, mientras que Goiko los relega a un menú desplegable. 
+Por otro lado, Sancho Casual Burger sobresale negativamente por ser la opción "mal diseñada" del grupo. Mientras Goiko facilita la conversión con un proceso fluido, Sancho presenta una navegación algo difícil con la información clave algo dispersa la cual el usuario debe buscar activamente. Goiko también supera a Sancho en canales de atención, incluyendo WhatsApp y una sección dedicada, frente a una oferta más limitada de teléfono y redes en el competidor.
+
+Para mejorar su competitividad, Goiko debería trabajar en diferentes aspectos clave como simplificar la arquitectura de información, reduciendo la jerarquía excesiva para facilitar que los nuevos usuarios encuentren contenido sin sentirse abrumados; optimizar la visibilidad de funciones, trasladando los accesos rápidos del desplegable a la página principal para mejorar la eficiencia de uso; o implementar herramientas de asistencia, como ñadir un buscador y ayuda contextual para paliar las carencias que comparte con el resto del mercado. 
+En general, Goiko tiene un potencial visual y funcional superior, pero necesita aligerar su carga informativa y mejorar la accesibilidad directa para consolidar una ventaja real frente a sus competidores.
+
+[Visualizar Análisis de Competencia](https://github.com/xGeaa/UX_CaseStudy/blob/master/P1/Competitor%20Analysis.pdf)
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
+
 Para este apartado, estudiaremos a las dos siguientes personas:
 
 <img width="1440" height="912" alt="image" src="https://github.com/user-attachments/assets/8f420b4f-7865-4f08-a061-5eda802e0781" />
@@ -90,6 +99,7 @@ Sofia Gomez es una joven diseñadora grafica que vive en la ciudad de Granada. E
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
+
 En este apartado encontramos los journey maps de las dos personas que se han estudiado:
 
 <img width="516" height="401" alt="image" src="https://github.com/user-attachments/assets/47707be0-5ec7-4c5c-8e46-68d1b14bbbf5" />
