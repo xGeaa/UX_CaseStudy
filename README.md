@@ -70,7 +70,7 @@ Miembros y nombre del equipo:
 -----
 Para este apartado, estudiaremos a las dos siguientes personas:
 
-<img width="1448" height="918" alt="Persona #1 (1)" src="https://github.com/user-attachments/assets/16a0cea8-a9e4-48eb-b1c8-6bb7056c514f" />
+<img width="1440" height="912" alt="image" src="https://github.com/user-attachments/assets/8f420b4f-7865-4f08-a061-5eda802e0781" />
 
 
 Martín Martinez es un joven bombero de 23 años apasionado del deporte y de experimentar en la cocina. Sin embargo, no es muy dado a vivir ni buscar nuevas experiencias. A pesar de ello, le encanta su trabajo y disfruta ayudando a la gente durante el día. Durante su tiempo libre, es un interesado en los eventos deportivos, la cultura del cine y en ir a comer a sitios que le dejen satisfecho. Podemos resaltar de él, su miedo a la desinformación de las redes, que pueden llevarle a recomendaciones muy desacertadas.
