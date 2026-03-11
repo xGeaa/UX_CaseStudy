@@ -52,13 +52,13 @@ Miembros y nombre del equipo:
 
 
 
-### 1.a User Reseach Plan
+### 1.a User Research Plan
 ![Método UX](img/Competitive.png) 
 -----
 
-Como sabemos, Goiko es una empresa de restauración la cual ofrece a los clientes una experiencia urbana basada en su carta de hamburguesas gourmet. 
+Como sabemos, [Goiko](https://www.goiko.com/es/) es una empresa de restauración la cual ofrece a los clientes una experiencia urbana basada en su carta de hamburguesas gourmet. 
 Para la realización de este estudio, analizaremos la web desde el punto de vista de dos nuevos clientes los cuáles no conocían, o nunca habían entrado en la página de este establecimiento. Por ello, analizaremos las webs de los principales competidores de esta marca tratando de investigar sobre los puntos clave de estudio; además de estudiar a fondo los posibles problemas de la página de nuestra empresa contenplando usabilidad, percepción, accesibilidad e incluso experiencia entre otros factores a tener en cuenta.
-En conclusión, realizaremos este análisis para consegir diseñar estratégias para la mejora de la experiencia del usuario, tratando de conseguir atraer al público.
+En conclusión, realizaremos este análisis para consegir diseñar estratégias para la mejora de la experiencia del usuario, tratando de conseguir atraer al público. Todo esto, lo podemos ver reflejado en nuestro User Reseach Plan
 
 >>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
 
