@@ -8,4 +8,10 @@
 
 
 
->>>> Incluya aquí simpre una valoración final del equipo sobre la propia realización de la práctica
+## Valoración Final de la Práctica
+  En esta práctica hemos realizado un análisis de la usabilidad y de la experiencia de usuario de la web de [Goiko](https://www.goiko.com/es/), un referente en hamburgueserías a nivel nacional. Para ello, hemos utilizado diferentes técnicas como el análisis de competencia o la evaluación de la usabilidad de la página por parte de casos ficticios por personas recreadas para el momento.  
+
+  Hemos logrado extraer algunas conclusiones diferentes entre sí. Por ejemplo, hemos hallado un flujo de usuario fluido, y un contraste de legibilidad bastante bueno, además de una adaptación a móvil óptima en comparación con otros competidores de la marca. Del mismo modo, hemos encontrado otros aspectos negativos como el exceso de jerarquización que presenta su menú o la ineficiencia en los accesos directos de la web.
+
+  Como conclusión, podemos decir que nos encontramos ante una página bastante mejorable que debería actualizarse para llegar a más clientes y tener un mayor impacto en comparación a sus competidores.
+
