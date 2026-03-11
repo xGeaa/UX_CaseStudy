@@ -58,7 +58,7 @@ Miembros y nombre del equipo:
 
 Como sabemos, [Goiko](https://www.goiko.com/es/) es una empresa de restauración la cual ofrece a los clientes una experiencia urbana basada en su carta de hamburguesas gourmet. 
 Para la realización de este estudio, analizaremos la web desde el punto de vista de dos nuevos clientes los cuáles no conocían, o nunca habían entrado en la página de este establecimiento. Por ello, analizaremos las webs de los principales competidores de esta marca tratando de investigar sobre los puntos clave de estudio; además de estudiar a fondo los posibles problemas de la página de nuestra empresa contenplando usabilidad, percepción, accesibilidad e incluso experiencia entre otros factores a tener en cuenta. Usaremos distintas técnicas para obtener dicha información que será crucial para obtener los resultados de este primer análisis. Este será el punto de partida de nuestro cronograma en el que proseguiremos diseñando un nuevo prototipo que subsane los errores hallados, y que terminará con una nueva evaluación en busca de continuar con la mejora.
-En conclusión, realizaremos este análisis para consegir diseñar estratégias para la mejora de la experiencia del usuario, tratando de conseguir atraer al público. Esta ruta completa, lo podemos ver reflejado en nuestro [User Reseach Plan](https://github.com/xGeaa/UX_CaseStudy/blob/master/P1/UserResearchPlan.pdf)
+En conclusión, realizaremos este análisis para consegir diseñar estratégias para la mejora de la experiencia del usuario, tratando de conseguir atraer al público. Esta ruta completa, lo podemos ver reflejado en nuestro [User Reseach Plan.](https://github.com/xGeaa/UX_CaseStudy/blob/master/P1/UserResearchPlan.pdf)
 
 
 
