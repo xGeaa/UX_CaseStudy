@@ -8,22 +8,9 @@
 
 
 ## Paso 0 My UX-Case Study
-![Método UX](img/caseStudy.png) 
 -----
 
 Grupo: DIU3_AL  Curso: 2025/26 
-
-Nombre del Proyecto: 
-
->>> Decida el nombre corto de su propuesta en la práctica 2 
-
-Descripción: 
-
->>> Describa la idea de su producto en la práctica 2 
-
-Logotipo: 
-
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  Alejandro Gea Martínez          https://github.com/xGeaa
