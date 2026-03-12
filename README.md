@@ -119,6 +119,9 @@ Valoración numérica obtenida: La valoracion final obtenida es de 72 puntos sob
 
 Comentario sobre la revisión: La usabilidad de esta pagina presenta algunos puntos debiles, entre ellos la falta de una funcion que permita al usuario buscar segun sus preferencias y filtrar los resultados de busqueda. Tambien se aprecia un cambio excesivo de colores y de tipografia lo cual no permite una experiencia visual del todo agradable.
 
+### 1.f Briefing
+----
+
 <br>
 
 ## Paso 2. UX Design  
