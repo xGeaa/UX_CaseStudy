@@ -4,7 +4,7 @@
 - Desk research: [Análisis Competencia](https://github.com/xGeaa/UX_CaseStudy/blob/master/P1/Competitor%20Analysis.pdf) 
 - Persona & User Journey Map #1: [Martín Martínez](https://github.com/xGeaa/UX_CaseStudy/blob/master/P1/Persona%26UserJourneyMap1.pdf)
 - Persona & User Journey Map #2: [Sofía Gómez](https://github.com/xGeaa/UX_CaseStudy/blob/master/P1/Persona%26JourneyMap2.pdf)
-- Revisión de Usabilidad: Usability Review
+- Revisión de Usabilidad: [Usability Review](https://github.com/xGeaa/UX_CaseStudy/blob/master/P1/Usability-review.pdf)
 
 
 
