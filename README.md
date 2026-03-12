@@ -118,6 +118,8 @@ La experiencia que tiene este usuario se podria considerar ocasional ya que esta
 ![Método UX](img/usabilityReview.png) 
 ----
 
+[](https://github.com/xGeaa/UX_CaseStudy/blob/master/P1/Usability-review.pdf)
+
 >>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
 >>> - Enlace al documento:  (xls/pdf) 
 >>> - URL y Valoración numérica obtenida: 
