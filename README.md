@@ -121,6 +121,11 @@ Comentario sobre la revisión: La usabilidad de esta pagina presenta algunos pun
 
 ### 1.f Briefing
 ----
+Mediante esta practica se detalla una evaluación integral de la plataforma digital de Goiko, con el objetivo de optimizar su usabilidad y con ello la satisfacción del cliente. La investigación se articuló bajo un User Research Plan que priorizó la identificación de puntos de fricción en los procesos de reserva y pedido online.
+
+A través de un Competition Analysis , se detectó que, si bien Goiko mantiene un posicionamiento de marca visualmente disruptivo, presenta bastantes oportunidades de mejora en la eficiencia de navegación frente a competidores directos que ofrecen interfaces más minimalistas. Para profundizar en el comportamiento del consumidor, se definieron dos User Personas representativas cuyas necesidades y frustraciones fueron mapeadas en sendos Journey Maps. 
+
+Finalmente, la Usability Review confirmó que el sitio destaca por su estética coherente y el uso de microinteracciones atractivas, pero presenta debilidades en la jerarquía de información y en la accesibilidad móvil. 
 
 <br>
 
