@@ -53,7 +53,6 @@ Miembros y nombre del equipo:
 
 
 ### 1.a User Research Plan
-![Método UX](img/Competitive.png) 
 -----
 
 Como sabemos, [Goiko](https://www.goiko.com/es/) es una empresa de restauración la cual ofrece a los clientes una experiencia urbana basada en su carta de hamburguesas gourmet.
@@ -67,7 +66,6 @@ En conclusión, realizaremos este análisis para consegir diseñar estratégias 
 
 
 ### 1.b Competitive Analysis
-![Método UX](img/Competitive.png) 
 -----
 
 Es necesario hablar de la posición competitiva de la web de Goiko frente a sus rivales de referencia basándose en el análisis de experiencia de usuario y el diseño visual que muestran. Por ello, sacamos las siguientes conclusiones:
@@ -85,7 +83,6 @@ En general, Goiko tiene un potencial visual y funcional superior, pero necesita 
 [Visualizar Análisis de Competencia](https://github.com/xGeaa/UX_CaseStudy/blob/master/P1/Competitor%20Analysis.pdf)
 
 ### 1.c Personas
-![Método UX](img/Persona.png) 
 -----
 
 En este apartado estudiaremos a las siguientes personas:
@@ -99,7 +96,6 @@ Martín Martinez es un joven bombero de 23 años apasionado del deporte y de exp
 Sofia Gomez es una joven diseñadora grafica que vive en la ciudad de Granada. Es una persona muy social, le gusta salir los viernes y sábados. Debido a su profesión (diseñadora), su cerebro no se apaga cuando sale del trabajo. Es extremadamente observadora y sensible a la estética. Para ella, el mundo entra por los ojos. Valora muchísimo el esfuerzo que hay detrás de las cosas bien hechas: desde la tipografía del menú hasta cómo le hablan los camareros o la limpieza de un local. No tolera la mediocridad ni el "todo vale"; si va a gastar su dinero y su tiempo libre, quiere que merezca la pena.
 
 ### 1.d User Journey Map
-![Método UX](img/JourneyMap.png) 
 ----
 
 En este apartado encontramos los journey maps de las dos personas que se han estudiado:
@@ -113,7 +109,6 @@ En este caso, observamos una experiencia totalmente habitual en nuevos usuarios 
 La experiencia que tiene este usuario se podria considerar ocasional ya que esta solo ocurre cuando el usuario no conoce el local. No me parece una experiencia habitual por el hecho de que las primeras fases de dicha experiencia ocurren cuando el usuario no ha estado nunca en el local que escoge. Ya las proximas veces que vaya se podra ahorrar las dos primeras fases.
 
 ### 1.e Usability Review
-![Método UX](img/usabilityReview.png) 
 ----
 
 [Visualizar analisis de usabilidad](img/Usability-review.pdf)
