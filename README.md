@@ -18,7 +18,7 @@ Actualizado: 10/03/2026
 ![Método UX](img/caseStudy.png) 
 -----
 
-Grupo: DIU3_AL.  Curso: 2025/26 
+Grupo: DIU3_AL  Curso: 2025/26 
 
 Nombre del Proyecto: 
 
