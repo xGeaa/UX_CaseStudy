@@ -6,21 +6,6 @@
 - Persona & User Journey Map #2: [Sofía Gómez](https://github.com/xGeaa/UX_CaseStudy/blob/master/P1/Persona%26JourneyMap2.pdf)
 - Revisión de Usabilidad: [Usability Review](https://github.com/xGeaa/UX_CaseStudy/blob/master/P1/Usability-review.pdf)
 
-# DIU26
-Prácticas Diseño Interfaces de Usuario (Tema: .... ) 
-
-* [Guiones de prácticas](GuionesPracticas/)
-* [Guía para crea tu Case Study](Guia_CaseStudy.md)
-* Sala de la Fama [DIU Hall of fame](https://github.com/mgea/DIU/tree/master/hall_of_fame) donde se pueden encontrar Case Study destacados de otros años.
-* [Recursos/plantillas en figma](https://www.figma.com/design/BN2IR0q2clOSplfMmalh9K/DIU_Toolkit_Framework--2026-)
-
-
-
-
-Actualizado: 10/03/2026
-
-
-
 
 ## Paso 0 My UX-Case Study
 ![Método UX](img/caseStudy.png) 
