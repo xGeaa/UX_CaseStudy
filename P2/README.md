@@ -2,7 +2,7 @@
 
 ### Ideación 
 * Malla receptora de información 
-* Mapa de empatía
+* [Mapa de empatía](https://github.com/xGeaa/UX_CaseStudy/blob/master/P2/EmpathyMap.pdf)
 * Point of View 
 
 
