@@ -12,8 +12,8 @@
 
 ### TASK ANALYSIS
 
-* User Task Matrix 
-* [User/Task flow](https://github.com/xGeaa/UX_CaseStudy/blob/master/P2/UserTaskMatrix.pdf)
+* [User Task Matrix](https://github.com/xGeaa/UX_CaseStudy/blob/master/P2/UserTaskMatrix.pdf) 
+* [User/Task Flow]()
 
 
 ### ARQUITECTURA DE INFORMACIÓN
