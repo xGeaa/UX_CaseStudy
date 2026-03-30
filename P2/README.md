@@ -13,7 +13,9 @@
 ### TASK ANALYSIS
 
 * [User Task Matrix](https://github.com/xGeaa/UX_CaseStudy/blob/master/P2/UserTaskMatrix.pdf) 
-* [User/Task Flow]()
+* User/Task Flow:  
+      - [Pedir Comida](https://github.com/xGeaa/UX_CaseStudy/blob/master/P2/UserFlow%20PedirComida.png)  
+      - [Reservar Mesa](https://github.com/xGeaa/UX_CaseStudy/blob/master/P2/UserFlow%20ReservarMesa.png)  
 
 
 ### ARQUITECTURA DE INFORMACIÓN
