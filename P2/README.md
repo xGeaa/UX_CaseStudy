@@ -7,7 +7,7 @@
 
 
 ### PROPUESTA DE VALOR
-* ScopeCanvas
+* [ScopeCanvas](https://github.com/xGeaa/UX_CaseStudy/blob/master/P2/ScopeCanvas.png)
 
 
 ### TASK ANALYSIS
@@ -20,7 +20,7 @@
 
 ### ARQUITECTURA DE INFORMACIÓN
 
-* [Sitemap](https://github.com/xGeaa/UX_CaseStudy/blob/master/P2/Sitemap.png)
+* Sitemap
 * Labelling 
 
 
