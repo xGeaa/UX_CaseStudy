@@ -20,7 +20,7 @@
 
 ### ARQUITECTURA DE INFORMACIÓN
 
-* Sitemap
+* [Sitemap](https://github.com/xGeaa/UX_CaseStudy/blob/master/P2/Sitemap.png)
 * Labelling 
 
 
