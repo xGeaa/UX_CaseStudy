@@ -26,6 +26,11 @@
 
 ### Prototipo Lo-FI Wireframe 
 
+* [Borradores a mano](https://github.com/xGeaa/UX_CaseStudy/blob/master/P2/Borradores%20a%20Mano.pdf)
+* Prototipos Figma:
+      - [HomePage]()  
+      - [La Carta]()  
+      - [Eventos]()  
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
