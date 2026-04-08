@@ -147,9 +147,7 @@ Finalmente, la Usability Review confirmó que el sitio destaca por su estética 
 ![Método UX](img/ScopeCanvas.png)
 ----
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
-
+<img width="1920" height="1080" alt="imagen" src="https://github.com/user-attachments/assets/e5d444cb-ce89-471d-98db-de93bc1968d3" />
 
 
 ### 2.b User Flow (task) analysis 
