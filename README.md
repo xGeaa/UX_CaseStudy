@@ -9,7 +9,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: .... )
 
 
 
-Actualizado: 10/03/2026
+Actualizado: 08/04/2026
 
 
 
@@ -20,9 +20,8 @@ Actualizado: 10/03/2026
 
 Grupo: DIU3_AL  Curso: 2025/26 
 
-Nombre del Proyecto: 
-
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Nombre del Proyecto:  
+ AL BURGUERS
 
 Descripción: 
 
@@ -131,22 +130,17 @@ Finalmente, la Usability Review confirmó que el sitio destaca por su estética 
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
 
-### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
+### 2.a Reframing / IDEACION: Empathy map 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
+<img width="1999" height="1924" alt="image" src="https://github.com/user-attachments/assets/fea29c8d-0b9e-47fc-b522-e37c1f951e04" />  
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
+  Como podemos ver en el anterior mapa de empatía, nos encontramos con un claro patrón entre la competencia. En su mayoría, todo es muy visualmente atractivo, y los locales de moda cuentan con espacios interesantes, bonitos y acogedores en su plenitud. Sin embargo, detectamos dos principales problemas.  
+  En primer lugar, problemas con las webs de este tipo de empresas. Suele haber defectos relacionados con la lentitud, el exceso de datos, e incluso con la desactualización de sus productos.  
+  Esto nos lleva al segundo punto. Uno de los productos más desactualizados por estas webs es su carta de alérgenos. En esta sección, encontramos infinitas listas poco amigables de datos, los cuales provocan una irremediable pérdida de tiempo para su análisis. Es por ello que una persona con diferentes tipos de intolerancias puede llegar a tener algunas dificultades para encontrar la información que desea obtener (principalmente saber si va a poder comer algo en la hamburguesería).  
+  Por ello, nos gustaría plantear una sección mucho más acogedora para aquellos que padezcan intolerancias, y evitar que pierdan su tiempo estudiando una tabla de intolerancias aburrida y poco amigable, que puede llevarle a no tener ninguna información (porque la tengan desactualizada), tras un buen rato.
 
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
 
 
 ### 2.b ScopeCanvas
@@ -161,8 +155,21 @@ Finalmente, la Usability Review confirmó que el sitio destaca por su estética 
 ### 2.b User Flow (task) analysis 
 ![Método UX](img/Sitemap.png) 
 -----
+Con el fin de analizar algunas de las diferentes tareas que el usuario pueda realizar en la web, hemos utilizado algunos recursos como el [User/Task Matrix](https://github.com/xGeaa/UX_CaseStudy/blob/master/P2/UserTaskMatrix.pdf) con el cual hemos podido comparar las diferentes necesidades de distintos usuarios con el fin de tomar algunas decisiones de diseño posteriores.  
+  
+<img width="2000" height="1413" alt="image" src="https://github.com/user-attachments/assets/9db7f3a8-a98f-4f92-8aea-f8e0a2f4d775" />  
+  
+A partir de esta matriz, hemos podido crear algunos recorridos que podrían realizarse en varias de las tareas más representativas dentro de una web de este tipo. Así, podemos ver como los usuarios pueden interactuar con la página y cómo nosotros debemos de suplir sus necesidades.
+  
+ * [Reservar Mesa](https://github.com/xGeaa/UX_CaseStudy/blob/master/P2/UserFlow%20ReservarMesa.png)  
+ <img width="2144" height="448" alt="image" src="https://github.com/user-attachments/assets/94ebaae1-8b52-4402-83ae-ec447291d031" />
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+ * [Pedir Comida](https://github.com/xGeaa/UX_CaseStudy/blob/master/P2/UserFlow%20PedirComida.png)  
+ <img width="2484" height="378" alt="image" src="https://github.com/user-attachments/assets/9edbdad0-f27d-41b1-9c21-e0cfbd614454" />
+   
+
+
+
 
 
 ### 2.c IA: Sitemap + Labelling 
