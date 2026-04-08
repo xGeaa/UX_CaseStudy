@@ -176,11 +176,7 @@ A partir de esta matriz, hemos podido crear algunos recorridos que podrían real
 ![Método UX](img/labelling.png) 
 ----
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
-
-Término | Significado     
-| ------------- | -------
-  Login  | acceder a plataforma
+<img width="705" height="858" alt="imagen" src="https://github.com/user-attachments/assets/bc601f80-12e4-469e-be68-bbc452fc776e" />
 
 
 ### 2.d Wireframes
