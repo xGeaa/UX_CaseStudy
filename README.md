@@ -147,7 +147,7 @@ Finalmente, la Usability Review confirmó que el sitio destaca por su estética 
 ![Método UX](img/ScopeCanvas.png)
 ----
 
-[ScopeCanvas.pdf](https://github.com/user-attachments/files/26573835/ScopeCanvas.pdf)
+<img width="2000" height="1413" alt="image" src="https://github.com/user-attachments/files/26573835/ScopeCanvas.pdf" />  
 
 
 ### 2.b User Flow (task) analysis 
