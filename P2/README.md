@@ -7,7 +7,7 @@
 
 
 ### PROPUESTA DE VALOR
-* [ScopeCanvas](https://github.com/xGeaa/UX_CaseStudy/blob/master/P2/ScopeCanvas.png)
+* [ScopeCanvas](https://github.com/xGeaa/UX_CaseStudy/blob/master/P2/ScopeCanvas.pdf)
 
 
 ### TASK ANALYSIS
