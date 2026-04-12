@@ -181,7 +181,7 @@ A partir de esta matriz, hemos podido crear algunos recorridos que podrían real
 ![Método UX](img/Wireframes.png) 
 -----
 
-Bocetos a mano: [Bocetos](https://github.com/xGeaa/UX_CaseStudy/blob/master/P2/Borradores%20a%20mano.png)
+Bocetos a mano: [Bocetos](https://github.com/xGeaa/UX_CaseStudy/blob/master/P2/Borradores%20a%20mano.pdf)
 
 Pagina de inicio (HomePage):
  
