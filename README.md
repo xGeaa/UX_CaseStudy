@@ -181,9 +181,15 @@ A partir de esta matriz, hemos podido crear algunos recorridos que podrían real
 ![Método UX](img/Wireframes.png) 
 -----
 
+ Pagina de inicio (HomePage)
 <img width="1440" height="1024" alt="imagen" src="https://github.com/user-attachments/assets/45a0f47a-8ace-4247-b053-503a213cce38" />
 
+La Carta
 <img width="1440" height="1024" alt="imagen" src="https://github.com/user-attachments/assets/d40ccc61-b44e-4143-8a16-f6aebfce1ad5" />
+
+Eventos
+<img width="1440" height="1024" alt="imagen" src="https://github.com/user-attachments/assets/6746413b-3210-405e-bcb9-831b7122a867" />
+
 
 
 <br>
