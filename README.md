@@ -181,7 +181,7 @@ A partir de esta matriz, hemos podido crear algunos recorridos que podrían real
 ![Método UX](img/Wireframes.png) 
 -----
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+<img width="1440" height="1024" alt="imagen" src="https://github.com/user-attachments/assets/45a0f47a-8ace-4247-b053-503a213cce38" />
 
 <br>
 
