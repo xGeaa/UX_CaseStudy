@@ -181,16 +181,21 @@ A partir de esta matriz, hemos podido crear algunos recorridos que podrían real
 ![Método UX](img/Wireframes.png) 
 -----
 
- Pagina de inicio (HomePage)
+Bocetos a mano: [Bocetos](https://github.com/xGeaa/UX_CaseStudy/blob/master/P2/Borradores%20a%20mano.png)
+
+Pagina de inicio (HomePage):
+ 
 <img width="1440" height="1024" alt="imagen" src="https://github.com/user-attachments/assets/45a0f47a-8ace-4247-b053-503a213cce38" />
 
-La Carta
+La Carta:
+
 <img width="1440" height="1024" alt="imagen" src="https://github.com/user-attachments/assets/d40ccc61-b44e-4143-8a16-f6aebfce1ad5" />
 
-Eventos
+Eventos:
+
 <img width="1440" height="1024" alt="imagen" src="https://github.com/user-attachments/assets/6746413b-3210-405e-bcb9-831b7122a867" />
 
-
+Para la creacion de los Wireframes se ha utilizado Figma como herramiento principal. Encontramos en primer lugar la pagina principal (homepage) y a continuacion se muestran las pagina de La Carta a la cual se llega clickando donde pone "La Carta" en el menu superior al igual que con la pagina de Eventos
 
 <br>
 
