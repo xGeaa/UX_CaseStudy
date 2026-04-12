@@ -28,13 +28,14 @@
 
 * [Borradores a mano](https://github.com/xGeaa/UX_CaseStudy/blob/master/P2/Borradores%20a%20mano.pdf)
 * Prototipos Figma:  
-      - [HomePage]()  
-      - [La Carta]()  
-      - [Eventos]()  
+      - [HomePage](https://github.com/xGeaa/UX_CaseStudy/blob/master/P2/Homepage.png)  
+      - [La Carta](https://github.com/xGeaa/UX_CaseStudy/blob/master/P2/LaCarta.png)  
+      - [Eventos](https://github.com/xGeaa/UX_CaseStudy/blob/master/P2/Eventos.png)  
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
 
+A traves de esta practica, mediante el EmpathyMap y el ScopeCanvas hemos logrado entender qué necesita el cliente y qué objetivos tiene la marca, sentando las bases para una navegación con propósito. Tambien nos ha permitido sintetizar de manera efectiva las intenciones de la mejora que aplicaremos sobre su web, identificando lo que queremos obtener y que limitaciones tenemos
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+Mediante la User Task Matrix y los flujos de usuario (Task Flows) de reserva y pedido, optimizamos los procesos críticos para que sean más rápidos y sencillos. Esto nos ha permitido organizar un Sitemap coherente eliminando pasos innecesarios a los que el usuario debia enfrentarse y diseñar Wireframes (Homepage, La Carta y Eventos) donde la estructura y la utilidad mandan sobre la estética. En particular nos hemos decantado por una mejora a la hora de consultar los alergenos de los productos que ofrece la marca. A la hora de hacer los borradores y los Wireframes se ha intentado minimizar el espacio sin utilizar, aprovechando al maximo el espacio disponible, dividiendo este en 12 columnas tal y como se indico en las practicas
+
+Como conclusión, este trabajo demuestra que para que Goiko destaque frente a su competencia, no basta con una web visual, sino que necesita una arquitectura sólida que elimine fricciones. El resultado es un prototipo funcional que mejora la eficiencia y garantiza que el usuario encuentre lo que busca con menos esfuerzo.
