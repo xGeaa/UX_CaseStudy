@@ -1,6 +1,6 @@
 # DIU - Practica 3, entregables
 
-- Moodboard (diseño visual + logotipo)   
+- [Moodboard (diseño visual + logotipo)](https://github.com/xGeaa/UX_CaseStudy/blob/master/P3/MoodBoard.pdf) 
 - Landing Page
 - Mockup: LAYOUT HI-FI
 - Publicación del Case Study
