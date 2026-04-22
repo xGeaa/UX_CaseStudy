@@ -29,9 +29,11 @@ Descripción:
 
 Logotipo: 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/5a06bbcb-578f-4cdc-80e3-5463de194d8c" />  
 
-Miembros y nombre del equipo:
+
+    
+  Miembros y nombre del equipo:
  * :bust_in_silhouette:  Alejandro Gea Martínez          https://github.com/xGeaa
  * :bust_in_silhouette:  Alberto Romero Orantes-Zurita   https://github.com/albertozurita-code
 
