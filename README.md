@@ -195,7 +195,7 @@ Para la creacion de los Wireframes se ha utilizado Figma como herramiento princi
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
-### 3.a Moodboard
+### 3.a [Moodboard](https://github.com/xGeaa/UX_CaseStudy/blob/master/P3/MoodBoard.pdf)
 ----
 
 Para el desarrollo de la MoodBoard se ha utlizado Figma, creando asi un lienzo con imagenes, colores, fuentes y logotipos. En nuestro caso el moodboard incluye una imagen corporativa que incluye la marca como logotipo.
@@ -220,7 +220,7 @@ Para aligerar el proceso se ha utilizado la herramienta de Figma con variantes.
 En la imagen superior, se muestra lo descrito anteriormente. Se aprecia la creacion en un primer lugar de los atomos, a continuacion de las moleculas... Consiguiendo asi la creacion de los layout que se mostraran a continuacion
 
 
-### 3.d Layout
+### 3.d [Layout](https://github.com/xGeaa/UX_CaseStudy/blob/master/P3/Layout.pdf)
 ----
 
 Para la realizacion de el layout HI-FI en Figma se usado un diseño molecular para organizar la bienvenida, la jerarquia visual sematica, el menu de navegacion, busquedas...
