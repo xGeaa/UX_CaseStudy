@@ -200,24 +200,18 @@ Para la creacion de los Wireframes se ha utilizado Figma como herramiento princi
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
-
 ### 3.a Moodboard
-![Método UX](img/moodboard.png)
------
-
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
-
-
-### 3.b Landing Page
-![Método UX](img/landing-page.png) 
+![Método UX](img/MoodBoard.pdf)
 ----
+Para el desarrollo de la MoodBoard se ha utlizado Figma, creando asi un lienzo con imagenes, colores, fuentes y logotipos. En nuestro caso el moodboard incluye una imagen corporativa que incluye la marca como logotipo.
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+La tipografia que se ha utilizado para definir el heading font ha sido "Cabin" pues pensamos que podria ser un estilo de letra amigable y cercano. Mientras que para definir el body font ha sido "Lato" ya que presenta un estilo limpio y legible.
 
+Los colores que hemos implementado han sido el blanco grisaceo, intentando representar la limpieza de nuestro producto y marron caido, intentando representar los ingredientes principales que componen el producto, siendo estos el pan y la carne. Con esto buscamos un contraste atractivo y elegante entre ambos colores.
+
+Los iconos y simbolos que hemos decidido utilizar son del estilo Foundation Icons. Nuestra decision se ha basado en la sencillez y elegancia que estos presentan. Se pueden observar en la parte derecha de la MoodBoard.
+
+Para terminar hemos insertado 4 imagenes inspiradoras con apariencia visual deseable. En estas imagenes se puede observar nuestro producto, tanto el final como la materia prima que la compone.
 
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
@@ -228,7 +222,7 @@ Para la creacion de los Wireframes se ha utilizado Figma como herramiento princi
 
 
 ### 3.d Mockup
-![Método UX](img/mockup.png) 
+![Método UX](img/Layout.pdf) 
 ----
 
 >>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
