@@ -134,7 +134,6 @@ Finalmente, la Usability Review confirmó que el sitio destaca por su estética 
 
 
 ### 2.a Reframing / IDEACION: Empathy map 
-![Método UX](img/feedback-capture-grid.png) 
 ----
 <img width="1999" height="1924" alt="image" src="https://github.com/user-attachments/assets/fea29c8d-0b9e-47fc-b522-e37c1f951e04" />  
 
@@ -146,14 +145,12 @@ Finalmente, la Usability Review confirmó que el sitio destaca por su estética 
 
 
 ### 2.b ScopeCanvas
-![Método UX](img/ScopeCanvas.png)
 ----
 
 <img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/5c6fdf9d-b511-42e5-a8ee-dc1f4d1a606e" />
 
 
 ### 2.b User Flow (task) analysis 
-![Método UX](img/Sitemap.png) 
 -----
 Con el fin de analizar algunas de las diferentes tareas que el usuario pueda realizar en la web, hemos utilizado algunos recursos como el [User/Task Matrix](https://github.com/xGeaa/UX_CaseStudy/blob/master/P2/UserTaskMatrix.pdf) con el cual hemos podido comparar las diferentes necesidades de distintos usuarios con el fin de tomar algunas decisiones de diseño posteriores.  
   
@@ -173,14 +170,12 @@ A partir de esta matriz, hemos podido crear algunos recorridos que podrían real
 
 
 ### 2.c IA: Sitemap + Labelling 
-![Método UX](img/labelling.png) 
 ----
 
 <img width="705" height="858" alt="imagen" src="https://github.com/user-attachments/assets/bc601f80-12e4-469e-be68-bbc452fc776e" />
 
 
 ### 2.d Wireframes
-![Método UX](img/Wireframes.png) 
 -----
 
 Bocetos a mano: [Bocetos](https://github.com/xGeaa/UX_CaseStudy/blob/master/P2/Borradores%20a%20mano.pdf)
@@ -201,8 +196,8 @@ Para la creacion de los Wireframes se ha utilizado Figma como herramiento princi
 ## Paso 3. Mi UX-Case Study (diseño)
 
 ### 3.a Moodboard
-![Método UX](img/MoodBoard.pdf)
 ----
+
 Para el desarrollo de la MoodBoard se ha utlizado Figma, creando asi un lienzo con imagenes, colores, fuentes y logotipos. En nuestro caso el moodboard incluye una imagen corporativa que incluye la marca como logotipo.
 
 La tipografia que se ha utilizado para definir el heading font ha sido "Cabin" pues pensamos que podria ser un estilo de letra amigable y cercano. Mientras que para definir el body font ha sido "Lato" ya que presenta un estilo limpio y legible.
@@ -213,20 +208,24 @@ Los iconos y simbolos que hemos decidido utilizar son del estilo Foundation Icon
 
 Para terminar hemos insertado 4 imagenes inspiradoras con apariencia visual deseable. En estas imagenes se puede observar nuestro producto, tanto el final como la materia prima que la compone.
 
-### 3.c Guidelines
-![Método UX](img/guidelines.png) 
+### 3.c Design System
 ----
 
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Para la creacion de nuestro Design System se ha optado por un enfoque Atomic Design personalizado. Esto garantiza que el prototipo sea ligero, rápido de cargar y revisar. Los pasos ha seguir han sido: definicion de Foundations, definiendo asi el lenguaje visual base y el atomic design, diseñando asi un sistema Design ligero basado en Atomic Design. Para ello lo hemos organizado en atomos (botones, inputs, tipografia), moleculas (barra de busqueda, tabs de navegacion), organismos (navbar, tab bar, footer) y patrones (login)
+
+Para aligerar el proceso se ha utilizado la herramienta de Figma con variantes.
+
+En la imagen superior, se muestra lo descrito anteriormente. Se aprecia la creacion en un primer lugar de los atomos, a continuacion de las moleculas... Consiguiendo asi la creacion de los layout que se mostraran a continuacion
 
 
-### 3.d Mockup
-![Método UX](img/Layout.pdf) 
+### 3.d Layout
 ----
 
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+<img width="1938" height="1222" alt="imagen" src="https://github.com/user-attachments/assets/863bda97-3c9c-496d-a6b9-4b570e1c421a" />
 
+
+Para la realizacion de el layout HI-FI en Figma se usado un diseño molecular para organizar la bienvenida, la jerarquia visual sematica, el menu de navegacion, busquedas...
+Se han usado los componentes de Figma para simular los comportamientos de animacion y transiciones.
 
 <br>
 
