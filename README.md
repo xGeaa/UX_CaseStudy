@@ -195,7 +195,7 @@ Para la creacion de los Wireframes se ha utilizado Figma como herramiento princi
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
-### 3.a [Moodboard](https://github.com/xGeaa/UX_CaseStudy/blob/master/P3/MoodBoard.pdf)
+### 3.a [Moodboard](https://github.com/xGeaa/UX_CaseStudy/blob/master/P3/Moodboard.pdf)
 ----
 
 Para el desarrollo de la MoodBoard se ha utlizado Figma, creando asi un lienzo con imagenes, colores, fuentes y logotipos. En nuestro caso el moodboard incluye una imagen corporativa que incluye la marca como logotipo.
