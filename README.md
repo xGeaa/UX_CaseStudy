@@ -226,6 +226,8 @@ En la imagen superior, se muestra lo descrito anteriormente. Se aprecia la creac
 Para la realizacion de el layout HI-FI en Figma se usado un diseño molecular para organizar la bienvenida, la jerarquia visual sematica, el menu de navegacion, busquedas...
 Se han usado los componentes de Figma para simular los comportamientos de animacion y transiciones.
 
+De esa forma se ha conseguido simular los Wireframes creados en la Practica 2. Dandole visibilidad a la pagina de inicio de la web, la pagina de la carta y el apartado de eventos. En cada uno de ellos se muestran los colores definidos en la MoodBoard, imagenes que transmiten deseo y una tipografia amigable y cercana.
+
 <br>
 
 ## Paso 4. Pruebas de Evaluación 
