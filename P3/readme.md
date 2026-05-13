@@ -1,8 +1,8 @@
 # DIU - Practica 3, entregables
 
-- [Moodboard (diseño visual + logotipo)](https://github.com/xGeaa/UX_CaseStudy/blob/master/P3/MoodBoard.pdf) 
-- Mockup: LAYOUT HI-FI
-- Publicación del Case Study
+- [Moodboard (diseño visual + logotipo)](https://github.com/xGeaa/UX_CaseStudy/blob/master/P3/MoodBoard.pdf)
+- [Design System](https://github.com/xGeaa/UX_CaseStudy/blob/master/P3/Design%20System.png)
+- [Mockup: LAYOUT HI-FI](https://github.com/xGeaa/UX_CaseStudy/blob/master/P3/Layout.pdf)
 
 ## Conclusiones
 
