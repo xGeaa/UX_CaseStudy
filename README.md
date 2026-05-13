@@ -211,6 +211,8 @@ Para terminar hemos insertado 4 imagenes inspiradoras con apariencia visual dese
 ### 3.c Design System
 ----
 
+<img width="1938" height="1222" alt="imagen" src="https://github.com/user-attachments/assets/863bda97-3c9c-496d-a6b9-4b570e1c421a" />
+
 Para la creacion de nuestro Design System se ha optado por un enfoque Atomic Design personalizado. Esto garantiza que el prototipo sea ligero, rápido de cargar y revisar. Los pasos ha seguir han sido: definicion de Foundations, definiendo asi el lenguaje visual base y el atomic design, diseñando asi un sistema Design ligero basado en Atomic Design. Para ello lo hemos organizado en atomos (botones, inputs, tipografia), moleculas (barra de busqueda, tabs de navegacion), organismos (navbar, tab bar, footer) y patrones (login)
 
 Para aligerar el proceso se ha utilizado la herramienta de Figma con variantes.
@@ -220,9 +222,6 @@ En la imagen superior, se muestra lo descrito anteriormente. Se aprecia la creac
 
 ### 3.d Layout
 ----
-
-<img width="1938" height="1222" alt="imagen" src="https://github.com/user-attachments/assets/863bda97-3c9c-496d-a6b9-4b570e1c421a" />
-
 
 Para la realizacion de el layout HI-FI en Figma se usado un diseño molecular para organizar la bienvenida, la jerarquia visual sematica, el menu de navegacion, busquedas...
 Se han usado los componentes de Figma para simular los comportamientos de animacion y transiciones.
