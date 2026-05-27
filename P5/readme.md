@@ -1,8 +1,17 @@
-## Practica 5: Exportación + Documentación - entregables 
+# DIU - Practica 5
 
-El objetivo principal de este proceso ha sido aislar, documentar y optimizar los componentes de la interfaz de AL-BURGUERS utilizando Storybook y Vite. La migración comenzó desde las piezas más atómicas, como los botones corporativos (Button y MenuButton), escalando de forma fluida hacia organismos globales (Navbar y Footer) hasta culminar en la recreación de páginas completas (Home, Carta, Eventos y EnConstruccion). Esto no has hecho aislar cada objeto del ecosistema para trabajar "uniendo piezas".  
+>>> Se publicará la [Asignacion_ABtesting](https://github.com/mgea/DIU/blob/master/P4/Asignacion_ABtesting.pdf)
+>>> Se publicará la lista de grupos y los respectivos GitHub
 
-Uno de los aspectos más destacables y críticos del desarrollo fue la sincronización del motor de estilos de Tailwind CSS y PostCSS dentro del servidor independiente de Storybook. Para solucionar la falta de formato inicial (aparecían los átomos sin formato por ejemplo), tuvimos que forzar la configuración del entorno. Asimismo, se configuraron viewports personalizados en las historias de la Navbar y el Footer, para intentar solucionar problemas que nos aparecían en la versión de móvil.
+- Users. Elección y características de los usuarios reclutados
+- Diseño de las pruebas
+- Realización del Cuestionario SUS para usuarios y casos A y B.
+- Tabla A/B Testing con resultados para A y B
+- Eye Tracking para B
+- Usability Report del Caso B, con toda la información recabada del caso B
 
-Como resultado, el proyecto cuenta ahora con un catálogo de componentes vivo e interactivo. Toda la lógica de  basada en la función setPagina ha quedado expuesta mediante la pestaña de Actions de Storybook, lo que permite verificar la navegación estructural de la web de manera visual. Gracias a esto, hemos logrado con total seguridad garantizar una consistencia visual en cualquier tamaño de pantalla con los diseños que ya creamos con anterioridad.
+Se dispone del Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
+- Conclusiones
 
+>>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
+>>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
