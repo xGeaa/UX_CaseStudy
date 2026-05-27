@@ -6,4 +6,4 @@ Uno de los aspectos más destacables y críticos del desarrollo fue la sincroniz
 
 Como resultado, el proyecto cuenta ahora con un catálogo de componentes vivo e interactivo. Toda la lógica de  basada en la función setPagina ha quedado expuesta mediante la pestaña de Actions de Storybook, lo que permite verificar la navegación estructural de la web de manera visual. Gracias a esto, hemos logrado con total seguridad garantizar una consistencia visual en cualquier tamaño de pantalla con los diseños que ya creamos con anterioridad.
 
-Finalmente, el contenido ha sido publicado en el siguiente enlace: (alburguers.surge.sh)
+Finalmente, el contenido ha sido publicado en el siguiente enlace: alburguers.surge.sh
