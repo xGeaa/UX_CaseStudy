@@ -5,11 +5,12 @@ module.exports = {
     './pages/**/*.{js,jsx}',
     './components/**/*.{js,jsx}',
     './app/**/*.{js,jsx}',
-    './src/**/*.{js,jsx}',
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}"
   ],
   prefix: "",
   theme: {
     extend: {},
   },
-  plugins: [require("tailwindcss-animate")],
+  plugins: [],
 }
