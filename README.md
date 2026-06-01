@@ -23,10 +23,6 @@ Grupo: DIU3_AL  Curso: 2025/26
 Nombre del Proyecto:  
  AL BURGUERS
 
-Descripción: 
-
->>> Describa la idea de su producto en la práctica 2 
-
 Logotipo: 
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/5a06bbcb-578f-4cdc-80e3-5463de194d8c" />  
