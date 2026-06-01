@@ -1,1 +1,12 @@
+Plan de Reclutamiento y Selección de Participantes
 
+Para llevar a cabo la evaluación, hemos seguido un proceso de muestreo mixto con el objetivo de garantizar la diversidad de los datos y obtener una visión integral de la usabilidad de las interfaces. En total, hemos logrado reunir una muestra de 10 usuarios distintos, distribuidos de forma equitativa (5 para el Caso A y 5 para el Caso B), lo que nos ha permitido realizar un análisis comparativo robusto.
+
+El criterio estratégico más importante durante este proceso ha sido la búsqueda deliberada de contraste en los perfiles. Para asegurar resultados objetivos, hemos seleccionado tanto a personas con amplios conocimientos sobre la materia y tecnología, como a usuarios que no tenían ninguna experiencia previa. Esta decisión nos ha permitido dividir la muestra en dos grandes bloques:
+
+   - Perfil Técnico o Familiarizado: Reclutamos a 3 compañeros del grupo de clase para la co-evaluación, además de perfiles externos con una alta competencia digital (como estudiantes afines o diseñadores).      Estos usuarios, al conocer la materia o estar acostumbrados a interfaces complejas, nos han proporcionado un feedback muy analítico, centrado en detectar fallos en la arquitectura de la información, el      cumplimiento de heurísticas y los estándares de diseño.
+
+   - Perfil Inexperto o Usuario Final: Para contrastar esas opiniones expertas, completamos el grupo con 7 participantes adicionales conformados por familiares y amigos de un rango de edad más amplio             (incluyendo perfiles senior de más de 60 años). Estas personas presentan un nivel de competencia digital medio o bajo y ninguna experiencia previa con la plataforma evaluada. Su participación ha sido        el verdadero "test de estrés" de la web, siendo vitales para detectar fricciones reales, observar dónde se pierde un usuario común y confirmar si la navegación es genuinamente intuitiva.
+
+Optimización y Control de Factores Técnicos (Eye Tracking)
+Para la evaluacion de la prueba de Eye Tracking se ha seleccionado a un subgrupo de tres participantes clave de entre la muestra total para realizar la prueba específica de seguimiento ocular (Eye Tracking). Esta selección estratégica garantizó la obtención de datos cualitativos suficientes para respaldar el análisis visual sin comprometer la viabilidad temporal del estudio.
